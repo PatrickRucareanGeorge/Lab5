@@ -4,7 +4,7 @@ public class Calculator {
     protected int state;
 
     public Calculator(int state) {
-        this.state = state;
+        this.state = state ;
     }
 
     public Calculator add(int value) {
